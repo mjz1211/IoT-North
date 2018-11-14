@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caption">Home物聯網監控台</string>
+    <string name="showData">呈現輸入內容</string>
+    <string name="showGo">遠端控制</string>
+    <string name="showGo2">遠端資訊</string>
+    <string name="showSearch">查詢</string>
+    <string name="showDHT">檢視溫溼度清單</string>
+    <string name="btnDHT">顯示溫溼度清單</string>
+    <string name="btnMQTTT">MQTT溫溼度訂閱</string>
+</resources>

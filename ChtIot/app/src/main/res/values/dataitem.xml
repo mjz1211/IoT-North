@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--一組資料 旅遊地-->
+    <string-array name="items">
+        <item>北歐</item>
+        <item>中歐</item>
+        <item>南歐</item>
+        <item>中東</item>
+        <item>日本</item>
+        <item>韓國</item>
+        <item>馬來西亞</item>
+        <item>北歐</item>
+        <item>中歐</item>
+        <item>南歐</item>
+        <item>中東</item>
+        <item>日本</item>
+        <item>韓國</item>
+        <item>馬來西亞</item>
+        <item>北歐</item>
+        <item>中歐</item>
+        <item>南歐</item>
+        <item>中東</item>
+        <item>日本</item>
+        <item>韓國</item>
+        <item>馬來西亞</item>
+    </string-array>
+</resources>
